@@ -9,7 +9,7 @@ As of 2023, here are the projects I am most proud of :
 - GL_Ants : Recreation of an ant simulation in OpenGL. This taught me how to use the API, the concept of compute shaders, and how images and buffers are managed.
 - GodotCPUOptimizedPlane : Godot 3/4 experiment to see if I could implement some sort of tesselation into Godot, which did not support it at the time. I managed to create a high detail and very large plane, all running at 60fps on a laptop with no dedicated GPU.
 - wei_app_api_v2 : AWS API created for managing challenges and teams for events in my school. It features automatic deployment through SAM.
-- vk_engine : Vulkan rendering engine to try and understand the API more. Mostly made following a tutorial, although I implemented dynamic rendering myself.
+- vk_engine : Very basic Vulkan rendering engine to try and understand the API more. Mostly made following a tutorial, although I implemented dynamic rendering myself.
 - gl_pbr_engine : OpenGL deferred rendering engine, with passes management, #include processor in shaders, image and model loading. Not finished yet, but I plan to implement PBR.
 
 ### ❓ Future projects
