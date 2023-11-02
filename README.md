@@ -11,6 +11,7 @@ As of 2023, here are the projects I am most proud of :
 - wei_app_api_v2 : AWS API created for managing challenges and teams for events in my school. It features automatic deployment through SAM.
 - vk_engine : Very basic Vulkan rendering engine to try and understand the API more. Mostly made following a tutorial, although I implemented dynamic rendering myself.
 - gl_pbr_engine : OpenGL deferred rendering engine, with passes management, #include processor in shaders, image and model loading. Not finished yet, but I plan to implement PBR.
+- ShellTexturing : Experimenting with shell texturing and fur, inspired by [this video](https://www.youtube.com/watch?v=9dr-tRQzij4)
 
 ### ❓ Future projects
 - Implementing ghost of tsushima grass rendering technique in unity.
