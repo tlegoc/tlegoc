@@ -1,9 +1,9 @@
 ### Théo Le Goc
 
-### 😀 Who am I
+### Who am I
 I am a french CS Student studying at ESIR, interested in computer graphics, rendering, simulation and image processing. I've been programming since I was 13, and I've been learning new tech, software and languages since then. I enjoy games, and organized a gamejam in my school with @LepGamingGo, sponsored by Orange.
 
-### ⌨️ My projects
+### ⌨My projects
 As of 2023, here are the projects I am most proud of :
 - ESIR_ProjetProg : Game coded for a course in 2 days with 3 friends, with a custom 2D OpenGL game engine made in 5 days by me and @emeraudia. The goal was to see if I could support a team of game devs by adding required features to the engine as quick as possible. By the end of the course, we had a fully functionnal engine with no memory leaks, working collision detection, scene loading, particles and 2D animations.
 - GL_Ants : Recreation of an ant simulation in OpenGL. This taught me how to use the API, the concept of compute shaders, and how images and buffers are managed.
@@ -13,7 +13,7 @@ As of 2023, here are the projects I am most proud of :
 - gl_pbr_engine : OpenGL deferred rendering engine, with passes management, #include processor in shaders, image and model loading. Not finished yet, but I plan to implement PBR.
 - ShellTexturing : Experimenting with shell texturing and fur, inspired by [this video](https://www.youtube.com/watch?v=9dr-tRQzij4)
 
-### ❓ Future projects
+### Future projects
 - Implementing ghost of tsushima grass rendering technique in unity.
 - Experiment more with vulkan to familiarize with the API.
 - Implement deferred rendering in vulkan, GPU driven rendering, and/or GPU culling.
