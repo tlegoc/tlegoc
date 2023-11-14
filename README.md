@@ -1,7 +1,7 @@
 ### Théo Le Goc
 
 ### Who am I
-I am a french CS Student studying at ESIR, interested in computer graphics, rendering, simulation and image processing. I've been programming since I was 13, and I've been learning new tech, software and languages since then. I enjoy games, and organized a gamejam in my school with @LepGamingGo, sponsored by Orange.
+I am a french CS Student studying at ESIR, interested in computer graphics, rendering, simulation and image processing. I've been programming since I was 13, and I've been learning new tech, software and languages since then. I enjoy games, and organized a gamejam in my school with [@LepGamingGo](https://github.com/LepGamingGo), sponsored by Orange.
 
 ### My projects
 As of 2023, here are the projects I am most proud of :
