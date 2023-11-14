@@ -20,3 +20,11 @@ As of 2023, here are the projects I am most proud of :
 - Implement deferred rendering in vulkan, GPU driven rendering, and/or GPU culling.
 - Create my own highly customizable game/rendering engine for my own games, featuring scripting through another language, map loading, deffered rendering.
 - Teach people on 3D rendering.
+
+### Some pictures
+
+| FFTWater | gl_pbr_training |GL_ANTS|
+|:-----------------:|:------------------:|:------------------:|
+| ![FFTWater picture](https://user-images.githubusercontent.com/21106616/282247586-e0e769a3-eb08-44ec-8c5c-738b4fac2159.png) | ![GL_PBR_TRAINING PICTURE](https://user-images.githubusercontent.com/21106616/274935054-de81b769-1d4e-401a-835b-5f3fa944a242.png) | ![](https://user-images.githubusercontent.com/21106616/275328837-69f3e094-45e2-4a32-9c87-01411aeafdc2.png) |
+| ShellTexturing | vk_engine | GodotCPUOptimizedPlane |
+| ![](https://user-images.githubusercontent.com/21106616/280114091-85220cb7-0922-4838-b41c-cafe43fab9fd.png) | ![](https://user-images.githubusercontent.com/21106616/255342609-1218706f-86de-46eb-b92f-4c5a080ccc36.png) | ![](https://user-images.githubusercontent.com/21106616/225936238-142df0d4-873c-463d-9f42-dce5cc7d773a.png) |
