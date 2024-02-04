@@ -18,7 +18,6 @@ As of 2023, here are the projects I am most proud of :
 - Implementing ghost of tsushima grass rendering technique in unity.
 - Experiment more with vulkan to familiarize with the API.
 - Implement deferred rendering in vulkan, GPU driven rendering, and/or GPU culling.
-- Create my own highly customizable game/rendering engine for my own games, featuring scripting through another language, map loading, deffered rendering.
 - Teach people on 3D rendering.
 
 ### Some pictures
